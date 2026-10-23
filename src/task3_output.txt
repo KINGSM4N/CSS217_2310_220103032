@@ -1,0 +1,5 @@
+Student ID: 220103032
+--- Modern caller -> Legacy printer ---
+[220103032] Hello from modern caller
+--- Legacy caller -> Modern console ---
+[220103032] Hello from legacy caller
