@@ -1,0 +1,3 @@
+interface UserRegistry {
+    UserProfile fetchUser();
+}
