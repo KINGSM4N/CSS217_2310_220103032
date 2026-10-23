@@ -1,0 +1,6 @@
+Student ID: 220103032
+app.name = MyApp
+Caught: Cannot read config key: io.fail
+Underlying cause: java.io.IOException
+Caught: Cannot read config key: db.fail
+Underlying cause: java.sql.SQLException
