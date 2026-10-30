@@ -1,0 +1,4 @@
+Student ID: 220103032
+Encoded: MjIwMTAzMDMy
+Decoded: 220103032
+Assertion passed: decoded == Student ID

@@ -1,0 +1,25 @@
+Practical Exercise: Proxy & Bridge Design Patterns in Java
+
+Q1 Loaded Open Open
+Q2 if (realImage == null) realImage = new RealImage();
+Q3 [B] Delay creating a heavy object until needed
+Q4 ProxyReady
+Q8 START-TASK -END
+Q9 System.out.println("Saving file...");
+Q10 SLOW_CALC FROM_CACHE
+Q11 NullPointerException, reason: real is never initialized
+Q12 if (real == null) real = new RealWorker();
+Q13 [A] Network and socket communication details
+Q16 1) (3 × 4) = 12, 2) (3 + 4) = 7
+Q17 [B] Composition over inheritance (has-a)
+Q18 Abstraction: RemoteControl, Implementor: Device
+Q19 this.device = device;
+Q20 device.turnOn();
+Q21 TV-ON RADIO-ON
+Q23 TV-ON RADIO-ON
+Q24 device.setVolume(0);
+Q25 Reason: It prevents you from passing in a different Device (implementor)
+Q26 [B] Bridge Pattern
+Q27 CIRCLE-RED CIRCLE-BLUE
+Q28 String getHex()
+

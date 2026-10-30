@@ -1,0 +1,5 @@
+Student ID: 220103032
+Fahrenheit: 98.6
+Class Adapter Celsius: 37.00
+Object Adapter Celsius: 37.00
+Identical: true
